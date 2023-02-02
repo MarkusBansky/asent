@@ -4,3 +4,7 @@ include asent/lexicons/en_lexicon_v1.txt
 include asent/lexicons/sv_lexicon_v1.txt
 include asent/lexicons/da_lexicon_afinn_v1.txt
 include asent/lexicons/da_lexicon_sentida_lemma_v1.csv
+include asent/lexicons/uk_lexicon_chen_skiena_2014_v1.txt
+include asent/lexicons/ru_lexicon_chen_skiena_2014_v1.txt
+include asent/lexicons/fr_lexicon_chen_skiena_2014_v1.txt
+include asent/lexicons/de_lexicon_chen_skiena_2014_v1.txt
